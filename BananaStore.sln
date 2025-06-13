@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BananaStore", "BananaStore\BananaStore.csproj", "{D7B7A85D-8FBE-4331-9621-85C99BE56486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BananaWebView", "BananaWebView\BananaWebView.csproj", "{C252F70F-86A8-42C8-85B2-E1F68FA7A489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B7A85D-8FBE-4331-9621-85C99BE56486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B7A85D-8FBE-4331-9621-85C99BE56486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B7A85D-8FBE-4331-9621-85C99BE56486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B7A85D-8FBE-4331-9621-85C99BE56486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C252F70F-86A8-42C8-85B2-E1F68FA7A489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C252F70F-86A8-42C8-85B2-E1F68FA7A489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C252F70F-86A8-42C8-85B2-E1F68FA7A489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C252F70F-86A8-42C8-85B2-E1F68FA7A489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E41CC75-5069-4F53-96E6-C7C47C461EA6}
+	EndGlobalSection
+EndGlobal

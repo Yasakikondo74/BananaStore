@@ -1,0 +1,6 @@
+@BananaStore_HostAddress = http://localhost:5103
+
+GET {{BananaStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
